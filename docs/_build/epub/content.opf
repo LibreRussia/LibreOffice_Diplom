@@ -190,7 +190,6 @@
     <itemref idref="epub-2" />
     <itemref idref="epub-4" />
     <itemref idref="epub-6" />
-    <itemref idref="epub-14" />
   </spine>
   <guide>
     <reference type="toc" title="Table of Contents" href="index.html" />

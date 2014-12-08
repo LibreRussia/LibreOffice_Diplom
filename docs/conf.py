@@ -283,14 +283,12 @@ epub_author = 'Дмитрий Мажарцев'
 #epub_copyright = '2014, Дмитрий Мажарцев'
 
 # The basename for the epub file. It defaults to the project name.
-#epub_basename = 'LibreOffice Diplom'
+#epub_basename = 'Пособие: Оформление дипломной работы в LibreOffice'
 
 # The HTML theme for the epub output. Since the default themes are not optimized
 # for small screen space, using the same theme for HTML and epub output is
 # usually not wise. This defaults to 'epub', a theme designed to save visual
 # space.
-#epub_theme = 'epub'
-
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
 epub_language = 'ru'
@@ -338,7 +336,7 @@ epub_exclude_files = ['search.html']
 #epub_max_image_width = 0
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
-#epub_show_urls = 'inline'
+epub_show_urls = 'footnote'
 
 # If false, no index is generated.
-#epub_use_index = True
+epub_use_index = False
