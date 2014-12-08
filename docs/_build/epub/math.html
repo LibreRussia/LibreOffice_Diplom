@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Формулы</title>
+    
+    <link rel="stylesheet" href="_static/epub.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" /> 
+  </head>
+  <body>
+
+    <div class="related">
+      <h3>Просмотр</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="Алфавитный указатель"
+             accesskey="I">указатель</a></li>
+        <li class="right" >
+          <a href="styles.html" title="Стили и шаблоны"
+             accesskey="N">следующий</a> |</li>
+        <li class="right" >
+          <a href="objects.html" title="Таблицы, изображения, графики"
+             accesskey="P">предыдущий</a> |</li>
+        <li><a href="index.html">Документация Пособие: Оформление дипломной работы в LibreOffice 3.0</a> &raquo;</li> 
+      </ul>
+    </div>
+
+    <div class="document">
+      <div class="documentwrapper">
+          <div class="body">
+            
+  <div class="section" id="id1">
+<h1>Формулы</h1>
+<div class="section" id="id2">
+<h2>Вставка формул</h2>
+<ul class="simple">
+<li><em>«Вставка → Объект → Формула Math»</em></li>
+</ul>
+<p>В состав пакета LibreOffice входит программа Math, мощный инструмент для вставки формул в документ. Гораздо удобнее, чем аналогичный инструмент в MS Office.</p>
+<p>После <em>«Вставка → Объект → Формула Math»</em> LibreOffice переключится в режим Math и внизу появится поле для ввода формул. Для упрощения ввода, в меню <em>«Вид → Элементы»</em> можно включить панель элементов.</p>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="_images/lo-diplom-009.png"><img alt="Панель ввода формул" src="_images/lo-diplom-009.png" /></a>
+</div>
+<p>Все формулы вводятся при помощи команд. Например формула:</p>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="_images/lo-formula-diplom-001.png"><img alt="Формула 1" src="_images/lo-formula-diplom-001.png" /></a>
+</div>
+<p>При вводе выглядит так:</p>
+<div class="highlight-python"><div class="highlight"><pre>y = {a^3} over {a^2 + x^2}
+</pre></div>
+</div>
+<p>При использовании меню «Элементы», в поле ввода автоматически подставляются команды. <strong>Знаки &lt;?&gt; обозначают места ввода пользовательских данных. Свои значения нужно вводить не между знаков &lt; &gt;, а вместо них!</strong></p>
+</div>
+<div class="section" id="id3">
+<h2>Настройка формул</h2>
+<p>В режиме ввода формул через меню <em>«Формат»</em> можно настраивать шрифт формул, кегль, выравнивание и прочие параметры.</p>
+</div>
+<div class="section" id="id4">
+<h2>Перенос формул</h2>
+<p>Если формула слишком длинная и требуется перенести её на другую строку, то при вводе формулы необходимо вставить слово <cite>{} newline {}</cite> в место, где надо сделать перенос. Например:</p>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="_images/lo-formula-diplom-002.png"><img alt="Формула 2" src="_images/lo-formula-diplom-002.png" /></a>
+</div>
+<p>При вводе она выглядит следующим образом:</p>
+<div class="highlight-python"><div class="highlight"><pre>fx(x) = {1} over {%pi %gamma left [1 + left ( {x - x_0} over {%gamma} right ) right] }
+= {} newline {} = {1} over {%pi} left [ {%gamma} over {(x-x_0)^2 + %gamma^2}  right ]
+</pre></div>
+</div>
+</div>
+<div class="section" id="id5">
+<h2>Вставка символов в формулу</h2>
+<p>Чтобы вставить в формулы буквы греческого алфавита необходимо в режиме ввода формулы воспользоваться <em>«Сервис → Каталог»</em>.</p>
+<p>Обратите внимание, что есть <em>«Набор символов»</em>: Греческий, iГреческий и Специальный. iГреческий вводит буквы курсивом. Обычно приятно набирать формулы именно курсивом.</p>
+</div>
+<div class="section" id="id6">
+<h2>Привязка формул</h2>
+<p>После вставки формулы она имеет те же настройки, что и изображения. Её можно привязать к абзацу, символу, странице или как символ.  Можно настроить обтекание текстом и расположить формулу на заднем или переднем плане.</p>
+<div class="admonition tip">
+<p class="first admonition-title">Совет</p>
+<p class="last">Исчерпывающее <em>«Руководство по LibreOffice Math»</em> содержит много примеров и дополнительной информации: <a class="reference external" href="http://librerussia.blogspot.ru/2014/10/libreoffice-math.html">http://librerussia.blogspot.ru/2014/10/libreoffice-math.html</a>.</p>
+</div>
+</div>
+</div>
+
+
+          </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+
+    <div class="footer">
+        &copy; Copyright 2014, Дмитрий Мажарцев.
+      Создано с помощью <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2.
+    </div>
+  </body>
+</html>

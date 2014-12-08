@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Пособие: Оформление дипломной работы в LibreOffice</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Пособие: Оформление дипломной работы в LibreOffice</text>
+      </navLabel>
+      <content src="index.html" />
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Предисловие к 3-му изданию</text>
+      </navLabel>
+      <content src="preface.html" />
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Предисловие к 3-му изданию</text>
+        </navLabel>
+        <content src="preface.html" />
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Соглашения</text>
+        </navLabel>
+        <content src="preface.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint5" playOrder="4">
+        <navLabel>
+          <text>Авторские права</text>
+        </navLabel>
+        <content src="preface.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint6" playOrder="5">
+        <navLabel>
+          <text>Дата публикации и версия программного обеспечения</text>
+        </navLabel>
+        <content src="preface.html#id7" />
+      </navPoint>
+      <navPoint id="navPoint7" playOrder="6">
+        <navLabel>
+          <text>Обратная связь</text>
+        </navLabel>
+        <content src="preface.html#id8" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint8" playOrder="7">
+      <navLabel>
+        <text>Русскоязычное сообщество LibreOffice</text>
+      </navLabel>
+      <content src="community.html" />
+      <navPoint id="navPoint9" playOrder="7">
+        <navLabel>
+          <text>Русскоязычное сообщество LibreOffice</text>
+        </navLabel>
+        <content src="community.html" />
+      </navPoint>
+      <navPoint id="navPoint10" playOrder="8">
+        <navLabel>
+          <text>Новости</text>
+        </navLabel>
+        <content src="community.html#id1" />
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="9">
+        <navLabel>
+          <text>Поддержка</text>
+        </navLabel>
+        <content src="community.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint12" playOrder="10">
+        <navLabel>
+          <text>Обучение</text>
+        </navLabel>
+        <content src="community.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint13" playOrder="11">
+        <navLabel>
+          <text>Независимые блоги</text>
+        </navLabel>
+        <content src="community.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint14" playOrder="12">
+        <navLabel>
+          <text>Списки почтовой рассылки LibreOffice</text>
+        </navLabel>
+        <content src="community.html#id5" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint15" playOrder="13">
+      <navLabel>
+        <text>Базовые понятия</text>
+      </navLabel>
+      <content src="concepts.html" />
+      <navPoint id="navPoint16" playOrder="13">
+        <navLabel>
+          <text>Базовые понятия</text>
+        </navLabel>
+        <content src="concepts.html" />
+      </navPoint>
+      <navPoint id="navPoint17" playOrder="14">
+        <navLabel>
+          <text>Терминология</text>
+        </navLabel>
+        <content src="concepts.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="15">
+        <navLabel>
+          <text>Единицы измерения</text>
+        </navLabel>
+        <content src="concepts.html#id3" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint19" playOrder="16">
+      <navLabel>
+        <text>Настройки страницы</text>
+      </navLabel>
+      <content src="pages.html" />
+      <navPoint id="navPoint20" playOrder="16">
+        <navLabel>
+          <text>Настройки страницы</text>
+        </navLabel>
+        <content src="pages.html" />
+      </navPoint>
+      <navPoint id="navPoint21" playOrder="17">
+        <navLabel>
+          <text>Нумерация</text>
+        </navLabel>
+        <content src="pages.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint22" playOrder="18">
+        <navLabel>
+          <text>Формат страницы</text>
+        </navLabel>
+        <content src="pages.html#id5" />
+      </navPoint>
+      <navPoint id="navPoint23" playOrder="19">
+        <navLabel>
+          <text>Титульная страница</text>
+        </navLabel>
+        <content src="pages.html#id6" />
+      </navPoint>
+      <navPoint id="navPoint24" playOrder="20">
+        <navLabel>
+          <text>Разрыв страницы</text>
+        </navLabel>
+        <content src="pages.html#id7" />
+      </navPoint>
+      <navPoint id="navPoint25" playOrder="21">
+        <navLabel>
+          <text>Смена ориентации отдельных страниц</text>
+        </navLabel>
+        <content src="pages.html#pages-plane" />
+      </navPoint>
+      <navPoint id="navPoint26" playOrder="22">
+        <navLabel>
+          <text>Колонтитулы</text>
+        </navLabel>
+        <content src="pages.html#id9" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint27" playOrder="23">
+      <navLabel>
+        <text>Настройки абзаца</text>
+      </navLabel>
+      <content src="paragraph.html" />
+      <navPoint id="navPoint28" playOrder="23">
+        <navLabel>
+          <text>Настройки абзаца</text>
+        </navLabel>
+        <content src="paragraph.html" />
+      </navPoint>
+      <navPoint id="navPoint29" playOrder="24">
+        <navLabel>
+          <text>Общие настройки абзаца</text>
+        </navLabel>
+        <content src="paragraph.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint30" playOrder="25">
+        <navLabel>
+          <text>Висячие строки</text>
+        </navLabel>
+        <content src="paragraph.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint31" playOrder="26">
+        <navLabel>
+          <text>Междустрочный интервал (Интерлиньяж)</text>
+        </navLabel>
+        <content src="paragraph.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint32" playOrder="27">
+        <navLabel>
+          <text>Нестандартный междустрочный интервал</text>
+        </navLabel>
+        <content src="paragraph.html#id5" />
+      </navPoint>
+      <navPoint id="navPoint33" playOrder="28">
+        <navLabel>
+          <text>Интервалы между абзацами</text>
+        </navLabel>
+        <content src="paragraph.html#id6" />
+      </navPoint>
+      <navPoint id="navPoint34" playOrder="29">
+        <navLabel>
+          <text>Отступы</text>
+        </navLabel>
+        <content src="paragraph.html#id7" />
+      </navPoint>
+      <navPoint id="navPoint35" playOrder="30">
+        <navLabel>
+          <text>Настройки символов</text>
+        </navLabel>
+        <content src="paragraph.html#id8" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint36" playOrder="31">
+      <navLabel>
+        <text>Переносы слов</text>
+      </navLabel>
+      <content src="hyphen.html" />
+      <navPoint id="navPoint37" playOrder="31">
+        <navLabel>
+          <text>Переносы слов</text>
+        </navLabel>
+        <content src="hyphen.html" />
+      </navPoint>
+      <navPoint id="navPoint38" playOrder="32">
+        <navLabel>
+          <text>Расстановка переносов</text>
+        </navLabel>
+        <content src="hyphen.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint39" playOrder="33">
+        <navLabel>
+          <text>Мягкий перенос</text>
+        </navLabel>
+        <content src="hyphen.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint40" playOrder="34">
+        <navLabel>
+          <text>Неразрывный дефис</text>
+        </navLabel>
+        <content src="hyphen.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint41" playOrder="35">
+        <navLabel>
+          <text>Неразрывный пробел</text>
+        </navLabel>
+        <content src="hyphen.html#id5" />
+      </navPoint>
+      <navPoint id="navPoint42" playOrder="36">
+        <navLabel>
+          <text>Запрет на перенос отдельных слов</text>
+        </navLabel>
+        <content src="hyphen.html#id6" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint43" playOrder="37">
+      <navLabel>
+        <text>Специальные символы</text>
+      </navLabel>
+      <content src="characters.html" />
+      <navPoint id="navPoint44" playOrder="37">
+        <navLabel>
+          <text>Специальные символы</text>
+        </navLabel>
+        <content src="characters.html" />
+      </navPoint>
+      <navPoint id="navPoint45" playOrder="38">
+        <navLabel>
+          <text>Дефис, минус, тире и длинное тире</text>
+        </navLabel>
+        <content src="characters.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint46" playOrder="39">
+        <navLabel>
+          <text>Кавычки</text>
+        </navLabel>
+        <content src="characters.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint47" playOrder="40">
+        <navLabel>
+          <text>Диакритические знаки</text>
+        </navLabel>
+        <content src="characters.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint48" playOrder="41">
+        <navLabel>
+          <text>Ударение</text>
+        </navLabel>
+        <content src="characters.html#id5" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint49" playOrder="42">
+      <navLabel>
+        <text>Списки</text>
+      </navLabel>
+      <content src="lists.html" />
+      <navPoint id="navPoint50" playOrder="42">
+        <navLabel>
+          <text>Списки</text>
+        </navLabel>
+        <content src="lists.html" />
+      </navPoint>
+      <navPoint id="navPoint51" playOrder="43">
+        <navLabel>
+          <text>Маркированные и нумерованные списки</text>
+        </navLabel>
+        <content src="lists.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint52" playOrder="44">
+        <navLabel>
+          <text>Управление списками</text>
+        </navLabel>
+        <content src="lists.html#list-manage" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint53" playOrder="45">
+      <navLabel>
+        <text>Сноски и перекрёстные ссылки</text>
+      </navLabel>
+      <content src="references.html" />
+      <navPoint id="navPoint54" playOrder="45">
+        <navLabel>
+          <text>Сноски и перекрёстные ссылки</text>
+        </navLabel>
+        <content src="references.html" />
+      </navPoint>
+      <navPoint id="navPoint55" playOrder="46">
+        <navLabel>
+          <text>Вставка сносок</text>
+        </navLabel>
+        <content src="references.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint56" playOrder="47">
+        <navLabel>
+          <text>Настройки сносок</text>
+        </navLabel>
+        <content src="references.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint57" playOrder="48">
+        <navLabel>
+          <text>Перекрёстные ссылки</text>
+        </navLabel>
+        <content src="references.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint58" playOrder="49">
+        <navLabel>
+          <text>Сноски на библиографию</text>
+        </navLabel>
+        <content src="references.html#id5" />
+      </navPoint>
+      <navPoint id="navPoint59" playOrder="50">
+        <navLabel>
+          <text>Закладки</text>
+        </navLabel>
+        <content src="references.html#id6" />
+      </navPoint>
+      <navPoint id="navPoint60" playOrder="51">
+        <navLabel>
+          <text>Навигатор</text>
+        </navLabel>
+        <content src="references.html#id7" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint61" playOrder="52">
+      <navLabel>
+        <text>Таблицы, изображения, графики</text>
+      </navLabel>
+      <content src="objects.html" />
+      <navPoint id="navPoint62" playOrder="52">
+        <navLabel>
+          <text>Таблицы, изображения, графики</text>
+        </navLabel>
+        <content src="objects.html" />
+      </navPoint>
+      <navPoint id="navPoint63" playOrder="53">
+        <navLabel>
+          <text>Вставка таблиц</text>
+        </navLabel>
+        <content src="objects.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint64" playOrder="54">
+        <navLabel>
+          <text>Настройка таблицы</text>
+        </navLabel>
+        <content src="objects.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint65" playOrder="55">
+        <navLabel>
+          <text>Положение текста в таблице</text>
+        </navLabel>
+        <content src="objects.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint66" playOrder="56">
+        <navLabel>
+          <text>Вставка изображений</text>
+        </navLabel>
+        <content src="objects.html#id5" />
+      </navPoint>
+      <navPoint id="navPoint67" playOrder="57">
+        <navLabel>
+          <text>Привязка изображений</text>
+        </navLabel>
+        <content src="objects.html#id6" />
+      </navPoint>
+      <navPoint id="navPoint68" playOrder="58">
+        <navLabel>
+          <text>Схемы и диаграммы</text>
+        </navLabel>
+        <content src="objects.html#id7" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint69" playOrder="59">
+      <navLabel>
+        <text>Формулы</text>
+      </navLabel>
+      <content src="math.html" />
+      <navPoint id="navPoint70" playOrder="59">
+        <navLabel>
+          <text>Формулы</text>
+        </navLabel>
+        <content src="math.html" />
+      </navPoint>
+      <navPoint id="navPoint71" playOrder="60">
+        <navLabel>
+          <text>Вставка формул</text>
+        </navLabel>
+        <content src="math.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint72" playOrder="61">
+        <navLabel>
+          <text>Настройка формул</text>
+        </navLabel>
+        <content src="math.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint73" playOrder="62">
+        <navLabel>
+          <text>Перенос формул</text>
+        </navLabel>
+        <content src="math.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint74" playOrder="63">
+        <navLabel>
+          <text>Вставка символов в формулу</text>
+        </navLabel>
+        <content src="math.html#id5" />
+      </navPoint>
+      <navPoint id="navPoint75" playOrder="64">
+        <navLabel>
+          <text>Привязка формул</text>
+        </navLabel>
+        <content src="math.html#id6" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint76" playOrder="65">
+      <navLabel>
+        <text>Стили и шаблоны</text>
+      </navLabel>
+      <content src="styles.html" />
+      <navPoint id="navPoint77" playOrder="65">
+        <navLabel>
+          <text>Стили и шаблоны</text>
+        </navLabel>
+        <content src="styles.html" />
+      </navPoint>
+      <navPoint id="navPoint78" playOrder="66">
+        <navLabel>
+          <text>Что такое стили</text>
+        </navLabel>
+        <content src="styles.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint79" playOrder="67">
+        <navLabel>
+          <text>Создание стилей</text>
+        </navLabel>
+        <content src="styles.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint80" playOrder="68">
+        <navLabel>
+          <text>Шаблоны</text>
+        </navLabel>
+        <content src="styles.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint81" playOrder="69">
+        <navLabel>
+          <text>Создание шаблона</text>
+        </navLabel>
+        <content src="styles.html#id5" />
+      </navPoint>
+      <navPoint id="navPoint82" playOrder="70">
+        <navLabel>
+          <text>Импорт стилей</text>
+        </navLabel>
+        <content src="styles.html#id6" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint83" playOrder="71">
+      <navLabel>
+        <text>Дополнительные функции</text>
+      </navLabel>
+      <content src="function.html" />
+      <navPoint id="navPoint84" playOrder="71">
+        <navLabel>
+          <text>Дополнительные функции</text>
+        </navLabel>
+        <content src="function.html" />
+      </navPoint>
+      <navPoint id="navPoint85" playOrder="72">
+        <navLabel>
+          <text>Подсчёт количества символов</text>
+        </navLabel>
+        <content src="function.html#id2" />
+      </navPoint>
+      <navPoint id="navPoint86" playOrder="73">
+        <navLabel>
+          <text>Поиск и замена</text>
+        </navLabel>
+        <content src="function.html#id3" />
+      </navPoint>
+      <navPoint id="navPoint87" playOrder="74">
+        <navLabel>
+          <text>Поля</text>
+        </navLabel>
+        <content src="function.html#id4" />
+      </navPoint>
+      <navPoint id="navPoint88" playOrder="75">
+        <navLabel>
+          <text>Редактирование документа в разных окнах</text>
+        </navLabel>
+        <content src="function.html#id5" />
+      </navPoint>
+      <navPoint id="navPoint89" playOrder="76">
+        <navLabel>
+          <text>Автоматическое оглавление</text>
+        </navLabel>
+        <content src="function.html#id6" />
+      </navPoint>
+      <navPoint id="navPoint90" playOrder="77">
+        <navLabel>
+          <text>Шаблон оформления конструкторской документации (ГОСТ ЕСКД — рамки А4)</text>
+        </navLabel>
+        <content src="function.html#id7" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint91" playOrder="78">
+      <navLabel>
+        <text>Правила хорошего тона</text>
+      </navLabel>
+      <content src="commeilfaut.html" />
+    </navPoint>
+    <navPoint id="navPoint92" playOrder="79">
+      <navLabel>
+        <text>Библиография</text>
+      </navLabel>
+      <content src="bibliography.html" />
+    </navPoint>
+  </navMap>
+</ncx>

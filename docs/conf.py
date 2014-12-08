@@ -279,8 +279,8 @@ texinfo_documents = [
 # Bibliographic Dublin Core info.
 epub_title = 'Пособие: Оформление дипломной работы в LibreOffice'
 epub_author = 'Дмитрий Мажарцев'
-epub_publisher = 'Дмитрий Мажарцев'
-epub_copyright = '2014, Дмитрий Мажарцев'
+#epub_publisher = 'Дмитрий Мажарцев'
+#epub_copyright = '2014, Дмитрий Мажарцев'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = 'LibreOffice Diplom'
