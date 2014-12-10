@@ -9,7 +9,7 @@
     <dc:publisher>unknown</dc:publisher>
     <dc:rights>2014, Дмитрий Мажарцев</dc:rights>
     <dc:identifier id="unknown" opf:scheme="unknown">unknown</dc:identifier>
-    <dc:date>2014-12-09</dc:date>
+    <dc:date>2014-12-10</dc:date>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />

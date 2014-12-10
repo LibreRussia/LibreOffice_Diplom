@@ -20,10 +20,10 @@
 
 И самое главное новшество заключается в использовании при верстке пособия связки reStructuredText, Python-Sphinx, Git, GitHub, Read the Docs. Благодаря этому, руководство теперь доступно в четырех форматах — онлайн_, HTML_, PDF_, ePub_.
 
-.. _онлайн: http://lo-diplom.readthedocs.org
-.. _HTML: https://readthedocs.org/projects/lo-diplom/downloads/htmlzip/latest/
-.. _PDF: https://readthedocs.org/projects/lo-diplom/downloads/pdf/latest/
-.. _ePub: https://readthedocs.org/projects/lo-diplom/downloads/epub/latest/
+.. _онлайн: http://libreoffice-diplom.readthedocs.org
+.. _HTML: https://readthedocs.org/projects/libreoffice-diplom/downloads/htmlzip/latest/
+.. _PDF: https://readthedocs.org/projects/libreoffice-diplom/downloads/pdf/latest/
+.. _ePub: https://readthedocs.org/projects/libreoffice-diplom/downloads/epub/latest/
 
 
 Соглашения
