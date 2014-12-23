@@ -46,8 +46,8 @@ source_encoding = 'utf-8-sig'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Пособие: Оформление дипломной работы в LibreOffice'
-copyright = '2014, Дмитрий Мажарцев'
+project = u'Пособие: Оформление дипломной работы в LibreOffice'
+copyright = u'2014, Дмитрий Мажарцев'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -162,7 +162,7 @@ html_static_path = ['_static']
 #html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
-#html_show_sourcelink = True
+html_show_sourcelink = False
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = False
@@ -277,10 +277,10 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = 'Пособие: Оформление дипломной работы в LibreOffice'
-epub_author = 'Дмитрий Мажарцев'
-#epub_publisher = 'Дмитрий Мажарцев'
-#epub_copyright = '2014, Дмитрий Мажарцев'
+epub_title = 'LibreOffice Diplom'
+epub_author = 'Dmitry Mazhartsev'
+#epub_publisher = 'Dmitry Mazhartsev'
+#epub_copyright = '2014, Dmitry Mazhartsev'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = 'Пособие: Оформление дипломной работы в LibreOffice'
